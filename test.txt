@@ -1,2 +1,6 @@
 sdsds
+<<<<<<< HEAD
 fdfdf
+=======
+rtrtrtrtr
+>>>>>>> 41ef18838bd7a4bf11c6b0986b021a07dbfe3186
